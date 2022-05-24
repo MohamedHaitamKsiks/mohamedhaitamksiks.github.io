@@ -18,6 +18,22 @@ body {
     padding: 0px;
     margin: 0px;
     border: 0px;
+
+    animation-name: animation-body;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
     
+}
+
+@keyframes animation-body {
+    0% {
+        background-position: 0px -100px;
+    }
+    50% {
+        background-position: 0px -30px;
+    }
+    100% {
+        background-position: 0px -100px;
+    }
 }
 
