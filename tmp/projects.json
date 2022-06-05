@@ -1,0 +1,81 @@
+[
+    {
+        "id": "f434aa5f-1ab7-4970-b63d-a9cb9d373edc",
+        "title": "Light Breaker",
+        "description": "Light Breaker is a fun mobile game made for android devices. \nI worked in the game as a programmer since the beginning of the project. ",
+        "type": "Mobile Application",
+        "year": "2021",
+        "link": "https://play.google.com/store/apps/details?id=org.godotengine.lightspeedsource",
+        "tools": [
+            "Godot",
+            "OpenGL"
+        ],
+        "images": [
+            "93efab98-4924-46b1-9d73-13c427048593.webp",
+            "58a28a76-1483-49c7-adad-90e7bafd509a.webp",
+            "fa4b9d99-b990-4e8e-b9e8-f5956437bb99.webp",
+            "b504592a-07cc-4b66-bec8-d162fc39fa10.png"
+        ],
+        "main": 0
+    },
+    {
+        "id": "a87c5317-604b-4486-a389-1ad63e1246b5",
+        "title": "SUPER MARIO MANIA",
+        "description": "This game is a remake for the most iconic levels in the Super Mario franchise.\n\n\nControls:\n\nMove: arrow keys / gamepad( joystic)k\n\nAccept: space bar / gamepad (A)\n\nPause: enter / gamepad (start)\n\nJump: spacebar / gamepad (A)\n\nThrow Cappy: Q/ gamepad (X)\n\nSprint: S/ gamepad (L2)\n\nDive: D/ gamepad (R2)\n\n",
+        "type": "Desktop Application",
+        "year": "2020",
+        "link": "https://simple-team.itch.io/super-mario-mania",
+        "tools": [
+            "Godot",
+            "OpenGL"
+        ],
+        "images": [
+            "340ccdd7-c35c-4d33-92fb-0c61e06838be.png",
+            "e995179d-8621-4fed-81c8-f803ca03025c.gif",
+            "0f277a61-4f4e-4337-b3f1-9f55e9df6e44.gif",
+            "ed6d9065-4fd2-436e-94f1-f5230f481efa.gif",
+            "3058ca68-2959-4287-8a46-08eae0bef45f.gif"
+        ],
+        "main": 0
+    },
+    {
+        "id": "8a0fa086-bb07-4ce6-bebe-de239f518008",
+        "title": "My Porfolio",
+        "description": "This portfolio contains all the informations you need regarding my skills, freelance experiences and projects. \nIt was built using HTML, CSS, JavaSript and VueJS.",
+        "type": "WEB Application",
+        "year": "2022",
+        "link": "https://mohamedhaitamksiks.github.io/",
+        "tools": [
+            "HTML",
+            "CSS",
+            "JS",
+            "VueJS"
+        ],
+        "images": [
+            "86f0604c-d856-498b-99ae-1ef82451b414.png",
+            "866c7157-9d7f-45bb-8dc7-4faaf3e681cf.png",
+            "dace86a6-fb08-4516-b005-1ee8150e9663.png"
+        ],
+        "main": 0
+    },
+    {
+        "id": "d7386291-8ebf-40ca-a448-c80f9233e353",
+        "title": "Portfolio Projects Manager",
+        "description": "It's a desktop application that allows me to add, delete or modify projects for my portfolio.\nIt generates a JSON file that contains all projects. And an Image folder that contains all the projects images.",
+        "type": "Desktop Application",
+        "year": "2022",
+        "link": "https://github.com/MohamedHaitamKsiks/portfolio-projects-manager",
+        "tools": [
+            "JS",
+            "HTML",
+            "CSS",
+            "VueJS",
+            "Bootstrap"
+        ],
+        "images": [
+            "07738007-3881-4358-a0bd-3952a4c1baba.png",
+            "ecaf4bd1-429e-480d-a286-7675259277c3.png"
+        ],
+        "main": 0
+    }
+]
