@@ -1,2 +1,0 @@
-# mohamedhaitamksiks.github.io
-portfolio
