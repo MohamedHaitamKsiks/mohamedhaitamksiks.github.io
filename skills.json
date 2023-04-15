@@ -4,23 +4,23 @@
         "skills": [
             {
                 "skill": "HTML/CSS",
-                "value": 72
-            },
-            {
-                "skill": "JavaScript",
                 "value": 75
             },
             {
+                "skill": "JavaScript",
+                "value": 80
+            },
+            {
                 "skill": "VueJS",
-                "value": 70
+                "value": 78
             },
             {
                 "skill": "NodeJS",
-                "value": 60
+                "value": 70
             },
             {
                 "skill": "ExpressJS",
-                "value": 58
+                "value": 68
             },
             {
                 "skill": "PHP",
@@ -28,7 +28,7 @@
             },
             {
                 "skill": "MySQL",
-                "value": 65
+                "value": 70
             }
         ]
     },
@@ -45,20 +45,24 @@
             },
             {
                 "skill": "C/C++",
-                "value": 70
+                "value": 78
             },
             {
                 "skill": "Java",
-                "value": 60
+                "value": 65
             },
             {
                 "skill": "Godot",
                 "value": 90
             },
             {
-                "skill": "OpenGL",
-                "value": 75
-            } 
+                "skill": "OpenGL/ES",
+                "value": 78
+            },
+            {
+                "skill": "Vulkan",
+                "value": 60
+            }
         ]
     },
     {

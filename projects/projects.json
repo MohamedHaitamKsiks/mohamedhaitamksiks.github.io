@@ -2,7 +2,7 @@
     {
         "id": "f434aa5f-1ab7-4970-b63d-a9cb9d373edc",
         "title": "Light Breaker",
-        "description": "Light Breaker is a fun mobile game made for android devices. \nI worked in the game as a programmer since the beginning of the project. ",
+        "description": "Light Breaker is a fun mobile game made for android devices. \nI worked in the game as a freelance programmer since the beginning of the project. ",
         "type": "Mobile Application",
         "year": "2021",
         "link": "https://play.google.com/store/apps/details?id=org.godotengine.lightspeedsource",
@@ -56,7 +56,7 @@
             "4394cc53-f52d-4add-9627-029cd6c4a2d2.png",
             "0a324df5-4a36-4ed8-90e5-cc797bdc62ec.png",
             "42a37df2-b781-4981-a89c-f19dea40ec8a.png",
-            "b61f8f98-0c50-41de-8300-7685fc922546.png"
+            "8c75a958-9d30-4d47-a6f6-1866bc8bcca6.gif"
         ],
         "main": 3
     },
@@ -155,5 +155,153 @@
             "094606ff-4ca2-4dfb-9ebb-07b8f5575e64.png"
         ],
         "main": 1
+    },
+    {
+        "id": "b2f32af2-8633-40d2-a7e1-ee740fa2694b",
+        "title": "Hallow Queen (WIP)",
+        "description": "A small game I'm working on as a freelancer Godot developer and artist with fodderlabs.\nIt's a game where you have to fight multiple bosses to progress.\n\nThe game is still in development, only the demo is available to the public.",
+        "type": "Desktop Application",
+        "year": "2023",
+        "link": "https://fodderlabs.itch.io/hallowqueen",
+        "tools": [
+            "Godot",
+            "OpenGL"
+        ],
+        "images": [
+            "5f2bb671-88b4-4c45-9b96-e126e83f806a.gif",
+            "a463a6d9-b0c0-4bff-8a43-39f085ba987e.png",
+            "41fdec0b-86bb-43b1-811d-69ce8f19f1dc.png",
+            "35b950a2-106e-4e0d-a4c4-ed0295584986.png",
+            "4f862347-a8bf-407d-89ff-720c5dd76097.png",
+            "d1d7d98e-4afe-44bb-89de-4aac22cb8a34.png",
+            "175f9560-9af5-417a-8c07-5bca3e3418e7.png",
+            "8861ca0d-2eac-44ad-9f02-e6dfdfe93949.gif"
+        ],
+        "main": 7
+    },
+    {
+        "id": "e058ae94-b79f-4033-92d0-18fc380d0e52",
+        "title": "Luck Thief",
+        "description": "A small game I made for the 48 hours GMTK game jam of 2022.",
+        "type": "Desktop Application",
+        "year": "2022",
+        "link": "https://simple-team.itch.io/luck-thief",
+        "tools": [
+            "Godot",
+            "OpenGL"
+        ],
+        "images": [
+            "e0e54427-3ff2-48f9-85d3-19d75116ed02.png",
+            "5267f07c-b484-4085-9d6b-0f529c9e0a56.png",
+            "4d9a1e4f-768c-4e95-94b1-aaa2011f946b.png",
+            "aa6c79ea-0881-4303-ac28-d25b08509404.png"
+        ],
+        "main": 0
+    },
+    {
+        "id": "1ae46dc2-6d16-47d3-9350-63437c141a18",
+        "title": "FodderLabs Portfolio",
+        "description": "It's a static website made with vue.js.\nIt's a portfolio that contains all the projects that my client worked/is working on.\nThe website is not online yet.",
+        "type": "WEB Application",
+        "year": "2023",
+        "link": "/",
+        "tools": [
+            "CSS",
+            "HTML",
+            "JS",
+            "VueJS"
+        ],
+        "images": [
+            "79fe61f3-7060-4bce-9fba-2f9484e64a7d.png",
+            "c923890d-182b-40bd-9993-fc762e85467c.png",
+            "b5a1d3ad-edb7-4ff2-9032-ccdea9db65ae.png",
+            "af526c75-d2fb-485a-9e35-9d45e0ce1696.png",
+            "5919d328-270c-4bd0-8560-9769e38df92c.png",
+            "24cc7779-83c2-48f1-a444-c0dc9f8fe950.gif"
+        ],
+        "main": 5
+    },
+    {
+        "id": "95cbb6ba-a86d-4fc7-8bb0-1ea6aa92baab",
+        "title": "World Cup Manager (Front end)",
+        "description": "This project is a world cup manager made for a school project.\nI was responsible of making the front end of the application.\nThe back end was in Oracle Apex. ",
+        "type": "WEB Application",
+        "year": "2023",
+        "link": "https://github.com/MohamedHaitamKsiks/worldcup-stats-web-application",
+        "tools": [
+            "HTML",
+            "CSS",
+            "JS",
+            "VueJS"
+        ],
+        "images": [
+            "13f8803d-c064-4f1f-8e10-4f3e65d4de52.png",
+            "4bf4fca4-d5d7-44c7-9c92-30b7daf6492a.png",
+            "532556b8-7a35-4c34-9ba1-ce94b0c53bbe.png",
+            "4448057f-f1aa-4fb0-af09-b55060910d43.png"
+        ],
+        "main": 3
+    },
+    {
+        "id": "ddcbe4d5-9c70-4ae8-b547-71db5dc37fe7",
+        "title": "Kanji Engine (WIP)",
+        "description": "Kanji is a free open source game engine I'm making as a personal project to learn more about graphics programming and game engine development.\nThe renderer is built with Vulkan. \nThe engine is still on it's debut.",
+        "type": "Desktop Application",
+        "year": "2023",
+        "link": "https://github.com/MohamedHaitamKsiks/kanji-engine",
+        "tools": [
+            "C++",
+            "Vulkan"
+        ],
+        "images": [
+            "00cf9cd9-3ed8-4f7e-9337-0c0a939eb3b1.gif",
+            "35d01407-57a7-46a2-9bb4-231cecbe610c.png"
+        ],
+        "main": 0
+    },
+    {
+        "id": "6ad50749-8f5e-4484-8c53-3375a644d3a5",
+        "title": "Android Simple Engine (WIP)",
+        "description": "Android game engine written with native c++ and android studio.\nThe engine was made to help create a mobile game for a school project.\nThe engine has :\n1. Resource management (sprites, fonts, materials ..)\n2. 2D Renderer with OpenGL ES 2.0\n3. Input Management\n4. Game Objects\n5. Particle System\n\nOther features are coming soon.",
+        "type": "Mobile Application",
+        "year": "2023",
+        "link": "https://github.com/MohamedHaitamKsiks/android_simple_engine",
+        "tools": [
+            "Android Studio",
+            "C++",
+            "OpenGL ES"
+        ],
+        "images": [
+            "628eb31c-a02e-49a9-9d85-5efebc770a93.gif"
+        ],
+        "main": 0
+    },
+    {
+        "id": "b9e46404-438c-49a1-b923-8048247855f7",
+        "title": "Resource Manger",
+        "description": "It's a fullstack web application made in my first year internship at HAGOUNIA BTP.\nIt helps the company to manage its resources.",
+        "type": "WEB Application",
+        "year": "2022",
+        "link": "/",
+        "tools": [
+            "HTML",
+            "CSS",
+            "JS",
+            "VueJS",
+            "NodeJS",
+            "ExpressJS"
+        ],
+        "images": [
+            "49174739-3f2a-4197-a67b-15264108683c.png",
+            "98bcc1c1-ba31-4213-9452-44d5861e7889.png",
+            "fb0452b6-5784-4385-b110-cab3f3d8ae76.png",
+            "18abfde2-3d18-451a-9275-39dfccf367c9.png",
+            "5871902b-0d3e-4509-8468-9dcaf787b45a.png",
+            "807056be-5471-4cc0-9f53-2dbf86297ccb.png",
+            "7dfde1d1-0acd-4464-9671-d6ab1958a3bb.png",
+            "2cf7eb09-8a46-4351-b26e-96f9e178f234.png",
+            "6d1e6a48-a0f8-446a-920f-6b3329950f32.png"
+        ],
+        "main": 0
     }
 ]
