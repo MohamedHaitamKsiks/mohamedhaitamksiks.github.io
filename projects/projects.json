@@ -303,5 +303,46 @@
             "6d1e6a48-a0f8-446a-920f-6b3329950f32.png"
         ],
         "main": 0
+    },
+    {
+        "id": "65420260-698a-429f-b3e0-702ae51afb44",
+        "title": "Parking System (Front end)",
+        "description": "Make parking reservation online. After reservation the user can access his place when the parking scans his car's plate",
+        "type": "WEB Application",
+        "year": "2023",
+        "link": "https://github.com/HachimHassani/Parking-System",
+        "tools": [
+            "Git",
+            "Angular",
+            "TypeScript",
+            "Cypress"
+        ],
+        "images": [
+            "85530399-1047-44e1-a4e9-23d0042de59a.gif",
+            "7d4e979b-65fa-4020-805a-208e3bf419a5.png",
+            "75c53c39-e431-475b-bfac-5f6cc7efec6e.png",
+            "9b84d32b-aea2-49af-a5b0-0db5db287dba.png",
+            "ad730d33-54a0-4bc4-af8a-286857fc9a92.png"
+        ],
+        "main": 0
+    },
+    {
+        "id": "65d1430d-7e58-4b11-99d5-5727804fa64f",
+        "title": "Sumo Bomber (WIP)",
+        "description": "A small casual game made with the help of AndroidSimpleEngine.",
+        "type": "Mobile Application",
+        "year": "2023",
+        "link": "https://github.com/MohamedHaitamKsiks/sumo-bomber",
+        "tools": [
+            "Android Studio",
+            "NDK",
+            "OpenGL ES",
+            "C++"
+        ],
+        "images": [
+            "139a12bf-14d0-44d0-b9e0-7513a3ba5db1.gif",
+            "22ca8547-9b39-42c4-b954-cdcad35a4244.png"
+        ],
+        "main": 1
     }
 ]
