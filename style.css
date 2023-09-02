@@ -1,0 +1,14 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+    background: #18122B;
+    color: white;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+
+    /* stars */
+    background-image: url("/background.svg");
+    background-position-y: 32px;
+    background-attachment: fixed;
+}
